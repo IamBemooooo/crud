@@ -1,0 +1,23 @@
+{
+  "name": "crud",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IamBemooooo/crud.git"
+  },
+  "author": "thend",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IamBemooooo/crud/issues"
+  },
+  "homepage": "https://github.com/IamBemooooo/crud#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
